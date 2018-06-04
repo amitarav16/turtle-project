@@ -7,7 +7,7 @@ import random
 wn = turtle.Screen()
 wn.bgcolor("light green")
 wn.tracer(3)
-wn.bgpic("sa.gif")
+wn.bgpic("haa.gif")
 #borders
 border = turtle.Turtle()
 border.penup()
